@@ -267,7 +267,7 @@ GROUP BY category;
 
 This analysis offers valuable insights for content strategists, product teams, and data professionals exploring entertainment data.
 
-## Author : Sneha
-Hii!! I'm an aspiring data analyst who loves exploring datasets and solving real-world problems using SQL and Python.
-This projectt is a part of my personal portfolio.
-📫 Let's Connect on [LinkedIn](https://www.linkedin.com/in/sneha-gawde)
+## Author - Sneha
+Hii!! I'm an aspiring data analyst who loves exploring datasets and solving real-world problems using SQL and Python.This projectt is a part of my personal portfolio.
+
+### 📫 Let's Connect on [LinkedIn](https://www.linkedin.com/in/sneha-gawde)
